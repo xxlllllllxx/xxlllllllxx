@@ -1,4 +1,7 @@
-- 👋 Hi, I’m ```bash @xxlllllllxx ```
+- 👋 Hi, I’m 
+```bash 
+@xxlllllllxx 
+```
 - 👀 I’m interested in learning Programming techniques
 - 🌱 I’m currently learning C and C++ as a student
 - 💞️ I’m looking to collaborate on some simple projects in C and C++
